@@ -1,0 +1,19 @@
+/home/leonardo/Documenti/Manzoni/C++/Programma-C-/Esercizi/snake.cpp: In function ‘int tastiera()’:
+/home/leonardo/Documenti/Manzoni/C++/Programma-C-/Esercizi/snake.cpp:20:15: error: ‘kbhit’ was not declared in this scope
+     if (kbhit()){
+               ^
+/home/leonardo/Documenti/Manzoni/C++/Programma-C-/Esercizi/snake.cpp:22:21: error: ‘getch’ was not declared in this scope
+         key = getch();
+                     ^
+/home/leonardo/Documenti/Manzoni/C++/Programma-C-/Esercizi/snake.cpp:25:15: error: ‘a’ was not declared in this scope
+         case (a): dir = 1; break;
+               ^
+/home/leonardo/Documenti/Manzoni/C++/Programma-C-/Esercizi/snake.cpp:26:15: error: ‘d’ was not declared in this scope
+         case (d): dir = 2; break;
+               ^
+/home/leonardo/Documenti/Manzoni/C++/Programma-C-/Esercizi/snake.cpp:27:15: error: ‘w’ was not declared in this scope
+         case (w): dir = 3; break;
+               ^
+/home/leonardo/Documenti/Manzoni/C++/Programma-C-/Esercizi/snake.cpp:28:15: error: ‘s’ was not declared in this scope
+         case (s): dir = 4; break;
+               ^

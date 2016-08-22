@@ -1,0 +1,12 @@
+
+
+**************************
+++       C++            ++
+++     PROGRAMMA        ++
+++                      ++
+**************************
+
+DICHIARAZIONE DI VARIABILI DI TIPO INT, CHAR CON ANCHE LUNGHEZZA [50], FLOAT.
+
+CONDIZIONE IF E CICLO WHILE
+
